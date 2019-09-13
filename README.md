@@ -1,1 +1,1 @@
-# Buisness-Website-Assignment
+# JavaScript-Lessons
